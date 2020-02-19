@@ -1,5 +1,3 @@
-# Python-Mini-Project
-  
- #installation of python3 and tkinter for windows10
- 
- 
+Python-Mini-Project
+
+stopwatch using tkinter a python interface
